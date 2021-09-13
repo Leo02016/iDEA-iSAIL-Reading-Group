@@ -1,40 +1,81 @@
 # <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">I-I Reading Group</span> 
-I-I (iDEA-iSAIL) group is a statistical learning and data mining reading group at UIUC, coordinated by Prof. Hanghang Tong and Prof. Jingrui He. The main purpose of this group is to educate and inform its members of the recent advances of machine learning and data mining.
+I-I (iDEA-iSAIL) reading group is a statistical learning and data mining reading group at UIUC, coordinated by Prof. Hanghang Tong and Prof. Jingrui He. The main purpose of this reading group is to educate and inform its members of the recent advances of machine learning and data mining.
 
-### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Regular Meetting.</span>
+### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Regular Meeting.</span>
 
-Time: Mon 9:30 - 11:30 pm.
+Time: 9:30pm - 10:30pm CDT, every Monday.
 
-Zoom: https://illinois.zoom.us/j/3935113249?pwd=WmFONnFJUHlBVlYrdHFPbFlvYndHQT09
+Zoom: https://illinois.zoom.us/j/6602062914?pwd=dGxWd1BKMit4b0pEcVdQc0pZTG8xZz09
 
-Unless otherwise notified, our regular weekly meeting for Fall 2020 is Mon 9:30-11:30 pm via Zoom. If you would like to present in an upcoming meeting, please email dzhou21/lecheng4 [at] illinois [dot] edu or submit a pull request and add to the table!</span>
+Unless otherwise notified, our reading group for Fall 2021 is scheduled as follows. If you would like to present in an upcoming meeting, please submit a pull request for registering or email Dongqi Fu (dongqif2 [at] illinois [dot] edu). </span>
 
-### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for 2021 Spring:</span>
+Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presentation slides to this github repository; (2) please also **<ins>do not forget</ins>** to forward the papers you are going to represent a week ahead of your presentation.
+
+### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Fall 2021:</span>
+
+| Dates | Presenters | Topics | Materials|
+| :---:         |     :---:      |          :---: |   :---: |
+| Sep 27, 2021   |   |   |   |
+| Oct 11, 2021   | Dawei Zhou  | Thesis Defense Dry Run  |   |
+| Oct 18, 2021   |   |   |   |
+| Oct 25, 2021   |   |   |   |
+| Nov 11, 2021   |   |   |   |
+| Nov 08, 2021   |   |   |   |
+| Nov 15, 2021   |   |   |   |
+| Nov 22, 2021   |   |   |   |
+| Nov 29, 2021   |   |   |   |
+| Dec 06, 2021   |   |   |   |
+
+
+### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Summer 2021:</span>
+
+| Dates | Presenters | Topics | Materials|
+| :---:         |     :---:      |          :---: |   :---: |
+| Jun 16, 2021   |  Jun Wu, Lihui Liu | KDD Dry Run   |   |
+| Jun 18, 2021   | Yikun Ban, Yao Zhou   | KDD Dry Run   |   |
+| Jun 21, 2021   | Boxin Du, Si Zhang  |  KDD Dry Run |  |
+| Jun 23, 2021   | Lihui Liu  |  KDD Dry Run |  |
+| Jun 28, 2021   | Tianxin Wei | KDD Dry Run |    |
+| July 5, 2021   |  Dawei Zhou |  Hunting Faculty Jobs in a Tight Market  |    |
+| July 12, 2021   |  Yao Zhou, Xu Liu  |  Industry Job Search  |    |
+| July 19, 2021   |  Si Zhang, Boxin Du  |  Hacking Return Offers from Industry Research Labs|    |
+| July 26, 2021   |  Shengyu Feng  | Graph Optimal Transport   |  [Slides](https://docs.google.com/presentation/d/1X55EZ-rbnBc3dwYpZyw7XIYFA8yaRcOKkm42atX4yQo/edit?usp=sharing)  |
+| Aug 2, 2021   |  Jun Wu   |  Mixup  |  [Slides](https://drive.google.com/file/d/1OeX_T-yq0Eh6UI2_5XJ4PLdycsEUa-K4/view?usp=sharing)  |
+| Aug 9, 2021   | Boxin Du, Yuchen Yan | Tutorial Dry Run   |    |
+| Aug 10, 2021   | Boxin Du, Yuchen Yan | Tutorial Dry Run   |    |
+| Aug 23, 2021   | Zhe Xu | Graph Neural Networks with Heterophily | [Slides](https://drive.google.com/file/d/1rDykc_93coonAkXoalk_So66Dn9R4Mgx/view?usp=sharing) |
+| Aug 30, 2021   |  [Prof. Liping Liu](https://www.eecs.tufts.edu/~liulp/)  | Guest Talk about Graph Generation   |    |
+| Sep 06, 2021   |  Lecheng Zheng  | Mutual Information   |    |
+
+
+
+
+### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Spring 2021:</span>
 
 | Dates | Presenters | Topics | Materials|
 | :---:         |     :---:      |          :---: |   :---: |
 | Feb 22, 2021   | Lecheng Zheng | Contrastive Learning  |  [SupCon](https://arxiv.org/abs/2004.11362),[SimCLR](https://arxiv.org/pdf/2002.05709.pdf), [CPC](https://arxiv.org/abs/1807.03748), [MOCO](https://arxiv.org/abs/1911.05722)  |
 | Mar 1, 2021   |  Wenxuan Bao   | Robustness on Federated Learning | [Machine Learning with Adversaries: Byzantine Tolerant Gradient Descent](https://proceedings.neurips.cc/paper/2017/file/f4b9ec30ad9f68f89b29639786cb62ef-Paper.pdf) |
 | Mar 8, 2021   |   Jian Kang  |  Neural Tangent Kernel  |  [Slides](https://www.dropbox.com/s/hwr8tybxuhb9lb3/ntk.pptx?dl=0)  |
-| Mar 15, 2021   |  Yuchen Yan   |    |    |
+| Mar 15, 2021   |  Yuchen Yan   | Positional Embedding and Structural Embedding in Graphs   |  [Position Aware GNN](https://arxiv.org/pdf/1906.04817.pdf)|
 | Mar 22, 2021   |  Lecheng Zheng,   | WWW Dry Run   |    |
-| Mar 29, 2021   |  Boxin Du  |    |    |
-| Apr 5, 2021   | Yikun Ban, Haonan Wang  |  WWW Dry Run 1 |    |
-| Apr 12, 2021   |   Dongqi Fu   |    |    |
-| Apr 19, 2021   |  Baoyu Jing, Yucheng Yan, Qinghai Zhou  |   WWW Dry Run 3 |    |
-| Apr 26, 2021   | Yuheng Zhang |    |    |
-| May 3, 2021   |  Shweta Jain   |    |    |
-| May 10, 2021   |  Jun Wu   |    |    |
-| May 17, 2021   |   Lihui Liu  |    |    |
+| Mar 29, 2021   |  Yikun Ban, Haonan Wang  |  WWW Dry Run  |    |
+| Apr 5, 2021   |  Qinghai, Baoyu  |  WWW Dry Run   |   |
+| Apr 12, 2021   |   Boxin Du   |  Preliminary Exam Dryrun  |    |
+| Apr 19, 2021   |  Dongqi Fu  |   De-Oversmoothing in GNNs |  [PREDICT THEN PROPAGATE](https://arxiv.org/pdf/1810.05997.pdf), [PAIRNORM](https://arxiv.org/pdf/1909.12223.pdf)  |
+| Apr 26, 2021   | Yuheng Zhang | Deep Q-learning and Improvements | [Rainbow](https://arxiv.org/pdf/1710.02298.pdf), [Deep Q-Network](https://www.nature.com/articles/nature14236.pdf), [Slides](https://docs.google.com/presentation/d/17nfp3OCMQCUXvLSjCzgV8-RkEgJBzXngeKi2TS3f3mo/edit?usp=sharing) |
+| May 3, 2021   |  Shweta Jain   |  Degree Distribution Approximation  |  [SADDLES](https://arxiv.org/pdf/1710.08607.pdf)  |
+| May 10, 2021   |  Jun Wu   |   Knowledge Distillation | [1](https://arxiv.org/pdf/1503.02531.pdf), [2](http://proceedings.mlr.press/v97/phuong19a/phuong19a.pdf), [Slides](https://drive.google.com/file/d/1ZdKzL9C-OwoDfFHWNDv75FN9pq0I0R-P/view?usp=sharing)  |
+| May 17, 2021   |   Lihui Liu  |  Knowledge Graph Embedding  |  [1](https://arxiv.org/pdf/2010.11465.pdf), [2](https://arxiv.org/pdf/1804.01882v3.pdf)  |
 
 
 
-### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for 2020 Fall:</span>
+### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Fall 2020:</span>
 
 | Dates | Presenters | Topics | Materials|
 | :---:         |     :---:      |          :---: |   :---: |
 | Sept 7, 2020   |  Max Welling （IAS Talk）   |  Graph Nets: The Next Generation  |    |
-| Sept 14, 2020   |Yikun Ban | Online learning/ Bandits | Counterfactual Evaluation of Slate Recommendations with Sequential Reward Interactions |
+| Sept 14, 2020   |Yikun Ban | Online learning/ Bandits | [Counterfactual Evaluation of Slate Recommendations with Sequential Reward Interactions](https://drive.google.com/file/d/1iQtEnTaZ4N_jnJ6y5APwJkDMpUYlrBLR/view?usp=sharing) |
 | Sept 21, 2020   | Shengyu Feng    |  Graph Contrastive Learning  | [GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training](https://arxiv.org/abs/2006.09963), [slides](https://docs.google.com/presentation/d/1UfynKFBOKKMA4CBjv2vF8-b1SdwEjZWsu9l7HAGAyzk/edit?usp=sharing)   |
 | Sept 28, 2020   |  Lihui Liu   |  Neural subgraph counting  |  [Neural subgraph isomorphism counting](https://arxiv.org/abs/1912.11589), [slides](https://drive.google.com/file/d/1zPbDUi701d6NVxW1YefR32Jfo3aNLSz8/view?usp=sharing)  |
 | Oct 5, 2020   | Yao Zhou | Preliminary exam dry run | Preliminary exam dry run|
@@ -52,7 +93,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2020 is Mon 9:30-
 
 
 
-### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for 2020 Spring:</span>
+### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Spring 2020:</span>
 
 | Dates | Presenters | Topics | Materials|
 | :---:         |     :---:      |          :---: |   :---: |
@@ -61,7 +102,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2020 is Mon 9:30-
 | Apr 1, 2020   | Jian Kang    | Graph Neural Tangent Kernel (GNTK)    |[Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels](https://arxiv.org/pdf/1905.13192.pdf)    |
 | Apr 8, 2020   | Dawei Zhou, Yao Zhou   | Dry run for The Web Conference 2020    |-    |
 | Apr 15, 2020   | Lecheng Zheng   |  Self supervised Learning   | [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748)    |
-| Apr 22, 2020   | Boxin Du   | -    |-    |
+| Apr 22, 2020   | Boxin Du   | Multi-level spectral approach for graph embedding    | [GraphZoom](https://arxiv.org/abs/1910.02370)   | 
 | Apr 29, 2020   |  Xu Liu | GCN with syntactic and semantic information | [SynGCN](https://www.aclweb.org/anthology/P19-1320.pdf) |
 | May 6, 2020   | Qinghai Zhou   | Learning Transferable Graph Exploration   |  [paper](https://papers.nips.cc/paper/8521-learning-transferable-graph-exploration.pdf) |
 | May 13, 2020   | -   | -    |-    |
