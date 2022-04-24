@@ -11,20 +11,41 @@ Unless otherwise notified, our reading group for Fall 2021 is scheduled as follo
 
 Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presentation slides to this github repository; (2) please also **<ins>do not forget</ins>** to forward the papers you are going to represent a week ahead of your presentation.
 
+### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Spring 2022:</span>
+
+| Dates | Presenters | Topics | Materials|
+| :---:         |     :---:      |          :---: |   :---: |
+| Jan 24, 2022  | Yuheng Zhang  | AAAI Dry Run  | [slides](https://www.dropbox.com/s/t7zladht39rk9wb/AAAI22_ActiveGNN.pdf?dl=0)  |
+| Jan 31, 2022  | Tianwen Chen  | Two-sided fairness in rankings via Lorenz dominance  | [paper](https://arxiv.org/abs/2110.15781)  |
+| Feb 21, 2022  | Lihui Liu  | knowledge graph reasoning  |  [paper](https://arxiv.org/abs/2010.11465) |
+| Feb 28, 2022  | Baoyu Jing  | Clustering Meets Contrastive Learning  | [slides](https://www.dropbox.com/s/x8vkzv1fd3emlgg/clustering%26contrastive_learning.pptx?dl=0)  |
+| Mar 07, 2022  | Weikai Xu |  Inductive Knowledge Graph Embedding |  [slides](https://docs.google.com/presentation/d/1tq902qDG_cb9x_lX6oiRVN4IlvZ9LXnn/edit?usp=sharing&ouid=106313977975956062464&rtpof=true&sd=true) |
+| Mar 14, 2022  | Yian Wang  | Minimax Pareto Fairness: A Multi Objective Perspective  | [slides](https://docs.google.com/presentation/d/1mBbLKVQuuV9qbMcqH25HmeyW1s169RcdOr-QeXco8-Y/edit#slide=id.g117249a2882_0_11)|
+| Mar 21, 2022  |  Yuchen Yan | A Principle for Negative Sampling in Graph-based Recommendations  |  [slides](https://drive.google.com/file/d/1u6hCxkFlSe_icMMcT_nZ_fkVU06xAV83/view?usp=sharing)  |
+| Mar 28, 2022  |  Jian Kang, Bolian Li |  WWW Dry Run  |   |
+| Apr 04, 2022  |  Shengyu Feng, Zhe Xu |  WWW Dry Run  |   |
+| Apr 11, 2022  | Dingsu Wang | Path Based Methods for Link Prediction  | [slides](https://drive.google.com/file/d/1AJbvq7MimYiTiYA5vjWbCySeTkLa_pMn/view?usp=sharing)  |
+| Apr 18, 2022  |  Yikun Ban | Neural Active Learning with Performance Guarantee |  [slides](https://github.com/banyikun/banyikun.github.io/blob/master/slides/GroupPre%200418.pdf) |
+| Apr 25, 2022  |  Jian Kang | Preliminary exam dry run |   |
+| Apr 26, 2022  |  Qinghai Zhou | Preliminary exam dry run |   |
+| May 02, 2022  | Wenxuan Bao  |   |   |
+| May 09, 2022  | Lecheng Zheng  |   |   |
+
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Fall 2021:</span>
 
 | Dates | Presenters | Topics | Materials|
 | :---:         |     :---:      |          :---: |   :---: |
-| Sep 27, 2021   |   |   |   |
-| Oct 11, 2021   | Dawei Zhou  | Thesis Defense Dry Run  |   |
-| Oct 18, 2021   |   |   |   |
-| Oct 25, 2021   |   |   |   |
-| Nov 11, 2021   |   |   |   |
-| Nov 08, 2021   |   |   |   |
-| Nov 15, 2021   |   |   |   |
-| Nov 22, 2021   |   |   |   |
-| Nov 29, 2021   |   |   |   |
-| Dec 06, 2021   |   |   |   |
+| Sep 27, 2021   | Dongqi Fu  | Discovering Graph Laws and their Applications in Dynamic Graphs | [Slides](https://drive.google.com/file/d/1N2ZRUHtMAaZ6x5T5y9tyAeyq94a_dvYU/view?usp=sharing)  |
+| Oct 13, 2021   | Dawei Zhou  | Thesis Defense Dry Run  |   |
+| Oct 18, 2021   | Si Zhang  | Thesis Defense Dry Run  |   |
+| Oct 25, 2021   | Jian Kang  | CIKM Dry Run  |   |
+| Nov 01, 2021   | Zhichen Zeng  | Graph Optimal Transition Coupling  | [Slides](https://docs.google.com/presentation/d/1AWKgQyHmjMsue4zbeolbU5bVW_3U-70h/edit#slide=id.p1)  |
+| Nov 08, 2021   | Qinghai Zhou | Filtration Curves for Graph Classification | [Slides](https://docs.google.com/presentation/d/1av8_5Rlr_vTa1de9V74dz4bhVVh8_fPx/edit?usp=sharing&ouid=102841096031010636255&rtpof=true&sd=true)  |
+| Nov 15, 2021   |  Ziwei Wu |  Accuracy Parity in Group Shifts | [Slides](https://drive.google.com/file/d/1Rx1wCc6xeC-dGXg3Gdv-cgfJG8QhInWS/view?usp=sharing) |
+| Nov 22, 2021   |  Yikun Ban | Recent Advances in Neural Bandits  | [Slides](http://www.banyikun.com/slides/group_pre_11_22_2021-2.pdf)|
+| Nov 29, 2021   | Yunzhe Qi  | Introduction of Analyzing Over-parameterized Neural Networks  | [Slides](https://github.com/isail-laboratory/iDEA-iSAIL-Reading-Group/blob/master/slides/20211129.pdf)  |
+| Dec 06, 2021   |  Yao Zhou | Thesis Defense Dry Run  |   |
+| Dec 07, 2021   |  Boxin Du | Thesis Defense Dry Run  |   |
 
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Summer 2021:</span>
