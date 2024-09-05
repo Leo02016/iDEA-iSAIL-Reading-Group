@@ -22,7 +22,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Sep 12, 2024 | Yikun, Ruizhong, Wenxuan, Zhichen | Rebuttal Panel: Dos and Don'ts |           |
 | Sep 19, 2024 |               |                       |           |
 | Sep 26, 2024 |               |                       |           |
-| Oct 03, 2024 |               |                       |           |
+| Oct 03, 2024 | Lecheng Zheng |                       |           |
 | Oct 10, 2024 | Zhe Xu        |                       |           |
 | Oct 17, 2024 | Xiao Lin      |                       |           |
 | Oct 24, 2024 |               |                       |           |
